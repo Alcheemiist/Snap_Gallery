@@ -1,0 +1,68 @@
+.Cards {
+    background-color: rgb(233, 235, 235);
+    min-height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Dash {
+
+    background-color: rgb(226, 231, 231);
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Cardlist {
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    width: 1000px;
+    height: 400px;
+}
+
+.Cardimage {
+    width: 50%;
+    height: 80%;
+}
+
+.CardData {
+    display: flex;
+    top: 0%;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    text-transform: full-width;
+}
+.title {
+    display: flex;
+    align-items: flex-start;
+    padding-bottom: 10px;
+
+    font-size: 20px;
+    font-weight: bold;
+    width: 100%;
+    text-transform: uppercase;
+}
+
+.Button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 30px;
+    padding: 10px;
+    margin: 20px 0px;
+    background-color: rgb(206, 46, 46);
+}
+
+.Search {
+    padding: 5px;
+    margin: 10px;
+}

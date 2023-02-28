@@ -1,2 +1,4 @@
 # Snap_Gallery
-Technical Test
+## Technical Test
+## to run app : 
+npm install ; npm start 
